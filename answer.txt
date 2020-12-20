@@ -1,0 +1,6 @@
+* f291571 (HEAD -> master) added README.md file
+| * 8d72f99 (greeting) added my greeting
+|/
+* 1e80246 created greeting.txt file
+
+this command show us the graph of commit in each of master branch and the other branch (commit history)
